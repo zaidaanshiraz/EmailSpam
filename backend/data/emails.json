@@ -1,0 +1,82 @@
+[
+    {
+        "to": "user@example.com",
+        "from": "support@google.com",
+        "subject": "Your account is safe",
+        "body": "Your Google account is safe. We've detected no suspicious activity recently.",
+        "name": "Google",
+        "type": "inbox",
+        "isSpam": false,
+        "date": "2025-09-02T10:00:00Z"
+    },
+    {
+        "to": "user@example.com",
+        "from": "promotions@email.com",
+        "subject": "You've won! Congratulations!",
+        "body": "Congratulations, you have won a free gift! Click here to claim your prize.",
+        "name": "Promotions Inc.",
+        "type": "inbox",
+        "isSpam": true,
+        "date": "2025-09-02T10:05:00Z"
+    },
+    {
+        "to": "user@example.com",
+        "from": "colleague@work.com",
+        "subject": "Meeting tomorrow morning",
+        "body": "Just a reminder about our meeting tomorrow at 9 AM. See you there.",
+        "name": "Jane Doe",
+        "type": "inbox",
+        "isSpam": false,
+        "date": "2025-09-02T10:10:00Z"
+    },
+    {
+        "to": "user@example.com",
+        "from": "newsletter@updates.com",
+        "subject": "Weekly Newsletter: Limited time offer!",
+        "body": "Don't miss our latest articles and a limited time offer on our premium services.",
+        "name": "News Updates",
+        "type": "inbox",
+        "isSpam": true,
+        "date": "2025-09-02T10:15:00Z"
+    },
+    {
+        "to": "user@example.com",
+        "from": "bank@secure.com",
+        "subject": "Urgent Action Required: Confirm your account",
+        "body": "We have detected unusual activity on your account. Please click here to confirm your details immediately to avoid suspension.",
+        "name": "Secure Bank",
+        "type": "inbox",
+        "isSpam": true,
+        "date": "2025-09-02T10:20:00Z"
+    },
+    {
+        "to": "user@example.com",
+        "from": "amazon@services.com",
+        "subject": "Your recent order",
+        "body": "Your order for the book has been shipped. It will arrive by Friday.",
+        "name": "Amazon",
+        "type": "inbox",
+        "isSpam": false,
+        "date": "2025-09-02T10:25:00Z"
+    },
+    {
+        "to": "user@example.com",
+        "from": "friend2@email.com",
+        "subject": "Hey!",
+        "body": "How are you? I'm free this weekend if you want to hang out.",
+        "name": "Alex",
+        "type": "inbox",
+        "isSpam": false,
+        "date": "2025-09-02T10:30:00Z"
+    },
+    {
+        "to": "user@example.com",
+        "from": "win@bigprize.com",
+        "subject": "Unclaimed prize: Get free money now!",
+        "body": "Congratulations, you have an unclaimed prize waiting for you. This is a very limited time offer.",
+        "name": "Prize Center",
+        "type": "inbox",
+        "isSpam": true,
+        "date": "2025-09-02T10:35:00Z"
+    }
+]
